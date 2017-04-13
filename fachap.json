@@ -1,0 +1,22 @@
+[
+  {
+    "picture": "img/fachap/fachap0.png",
+    "alternative": "",
+    "description": ""
+  },
+  {
+    "picture": "img/fachap/fachap2.jpg",
+    "alternative": "Vista categoría/pieza a votar",
+    "description": "Esta vista operaba en otra máquina y servía para proyectar la media asociada a la pieza participante en el festival.\r\n"
+  },
+  {
+    "picture": "img/fachap/fachap3.jpg",
+    "alternative": "Vista operador",
+    "description": "Desde esta vista, el operador podía visualizar los votos realizados por el jurado, además de seleccionar las categorías y realizar acciones para resolver problemas en la votación.\r\n"
+  },
+  {
+    "picture": "img/fachap/fachap4.jpg",
+    "alternative": "Vista votación móvil",
+    "description": "El jurado utilizó sus móviles para votar, la vista se refrescaba automáticamente al momento que el operador seleccionaba la pieza a votar (vista referencial desde navegador desktop).\r\n"
+  }
+]

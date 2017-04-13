@@ -1,0 +1,27 @@
+[
+  {
+    "picture": "img/lmi/lmi0.png",
+    "alternative": "",
+    "description": ""
+  },
+  {
+    "picture": "img/lmi/lmi1.jpg",
+    "alternative": "Wireframes",
+    "description": "Se utilizaron para determinar arquitectura de la información.\r\n"
+  },
+  {
+    "picture": "img/lmi/lmi2.jpg",
+    "alternative": "Prototipo backend administrativo",
+    "description": "Su utilidad fue la de evaluar complejidad e interacción en la rutina de ingreso de contenido al sistema.\r\n"
+  },
+  {
+    "picture": "img/lmi/lmi3.jpg",
+    "alternative": "Diseño final backend administrativo",
+    "description": "Vista de la interfaz final HTML del sistema del lado del usuario que alimentaba de contenido a La Moneda Informa.\r\n"
+  },
+  {
+    "picture": "img/lmi/lmi4.jpg",
+    "alternative": "Vista Final sitio visitantes",
+    "description": "HTML final de las vistas a usuarios visitantes.\r\n"
+  }
+]

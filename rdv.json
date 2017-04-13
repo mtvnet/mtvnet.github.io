@@ -1,0 +1,27 @@
+[
+  {
+    "picture": "img/rdv/rdv0.png",
+    "alternative": "",
+    "description": ""
+  },
+  {
+    "picture": "img/rdv/rdv1.jpg",
+    "alternative": "Flujo encargado municial (usuario principal del sistema)",
+    "description": "Encargado municipal registra unidades vecinales, juntas de vecinos y dirigentes.\r\n"
+  },
+  {
+    "picture": "img/rdv/rdv2.jpg",
+    "alternative": "Wireframes y prototipo",
+    "description": "Los Wireframes se dibujaron para determinar la arquitectura de la información, así como establecer vistas. Con estos wireframes se construyó un prototipo en Flash para determinar interacción y complejidad en el porceso.\r\n"
+  },
+  {
+    "picture": "img/rdv/rdv3.jpg",
+    "alternative": "HTML",
+    "description": "Ejemplo de las vistas finales, en particular, la del encargado municipal.\r\n"
+  },
+  {
+    "picture": "img/rdv/rdv4.jpg",
+    "alternative": "Manuales",
+    "description": "Ejemplos de los manuales generados para el encargado municipal y usuario administrador del sistema.\r\n"
+  }
+]

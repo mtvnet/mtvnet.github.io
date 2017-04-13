@@ -1,0 +1,32 @@
+[
+  {
+    "picture": "img/amasv/amasv0.png",
+    "alternative": "",
+    "description": ""
+  },
+  {
+    "picture": "img/amasv/amasv2.jpg",
+    "alternative": "Interfaz Original",
+    "description": "Esta era la interfaz original con la que me encontré, era bastante básica y no contemplaba otros actores como las agencias de medios ni formatos de spots.\r\n"
+  },
+  {
+    "picture": "img/amasv/amasv3.jpg",
+    "alternative": "Interfaz 2.0",
+    "description": "A principios de 2012 trabajé en una nueva interfaz contemplando nuevos requerimientos y características. Esta nueva interfaz permitió a A+V afianzar su presecencia en Chile y comenzar su despliegue en la región.\r\n"
+  },
+  {
+    "picture": "img/amasv/amasv4.jpg",
+    "alternative": "Adicionando nuevas características",
+    "description": "Nuevas características incorporadas en 2016 para cumplir con requerimientos de usuarios de Brasil y México.\r\n"
+  },
+  {
+    "picture": "img/amasv/amasv6.jpg",
+    "alternative": "Diseño Web Corporativa 2014",
+    "description": "Web corporativa que estuvo operativa entre 2014 y 2016.\r\n"
+  },
+  {
+    "picture": "img/amasv/amasv5.jpg",
+    "alternative": "Diseño interfaz 3.0 responsive",
+    "description": "Propuesta interfaz 3.0 integrando Bootstrap y diseño responsive.\r\n"
+  }
+]

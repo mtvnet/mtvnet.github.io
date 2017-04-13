@@ -1,0 +1,42 @@
+[
+  {
+    "picture": "img/oirs/oirs0.png",
+    "alternative": "",
+    "description": ""
+  },
+  {
+    "picture": "img/oirs/oirs1.jpg",
+    "alternative": "Flujo Básico",
+    "description": "Ejemplo flujo de uno de los procesos de la OIRS desarrollado del análisis de requerimientos.\r\n"
+  },
+  {
+    "picture": "img/oirs/oirs2.jpg",
+    "alternative": "Flujo Atención Presencial",
+    "description": "Flujo de usuario en Atención Presencial con respuesta directa. Aquí el funcionario registra consulta y respuesta otorgada.\r\n"
+  },
+  {
+    "picture": "img/oirs/oirs3.jpg",
+    "alternative": "Flujo Gestión de solicitud",
+    "description": "El usuario (funcionario), gestiona la solicitud de información, registrando datos del solicitante y derivando la consulta internamente o a otro servicio.\r\n"
+  },
+  {
+    "picture": "img/oirs/oirs3b.jpg",
+    "alternative": "Flujo Gestión Derivada",
+    "description": "En este flujo se describe el proceso de derivación interna o externa y la recepción de respuestas a dichas solicitudes.\r\n"
+  },
+  {
+    "picture": "img/oirs/oirs4a.jpg",
+    "alternative": "Descripción vistas principales",
+    "description": "Mapa de las vistas principales, desde ingreso al sistema.\r\n"
+  },
+  {
+    "picture": "img/oirs/oirs4b.jpg",
+    "alternative": "Prototipo",
+    "description": "Se desarrolló un prototipo en Flash del sistema para validar flujos diseñados y aspectos de usabilidad para el usuario del sistema (funcionarios).\r\n"
+  },
+  {
+    "picture": "img/oirs/oirs4.jpg",
+    "alternative": "Maqueta HTML",
+    "description": "Vista sistema final, fue bastante simple para cumplir con tiempos de desarrollo y entrega.\r\n"
+  }
+]
