@@ -17,6 +17,9 @@ $(document).ready(function() {
         if(idlink == "rdv"){
             titu = "Regístro Dirigentes Vecinales";
         };
+        if(idlink == "dibo"){
+            titu = "Dibo";
+        };
 
         $('h3').append(titu); 
 

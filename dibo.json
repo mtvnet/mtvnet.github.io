@@ -1,0 +1,27 @@
+[
+  {
+    "picture": "img/dibo/d0.jpg",
+    "alternative": "Home Header",
+    "description": "Home Header página Dibo, proyecto personal servicio Digital Display para condominios"
+  },
+  {
+    "picture": "img/dibo/d1.jpg",
+    "alternative": "Content Home",
+    "description": "Características y beneficios del servicio.\r\n"
+  },
+  {
+    "picture": "img/dibo/d2.jpg",
+    "alternative": "Vista página de inicio",
+    "description": "Página de inicio de Dibo, destacando un llamado en Header y un botón Call to action que despliega un formulario de contacto.\r\n"
+  },
+  {
+    "picture": "img/dibo/d3.jpg",
+    "alternative": "Vista página detalle",
+    "description": "Descripción de cómo funciona el servicio de Dibo.\r\n"
+  },
+  {
+    "picture": "img/dibo/d4.jpg",
+    "alternative": "Vista Móvil",
+    "description": "Ejemplo de su vista Móvil. Esta página es responsive y fue hecha utilizando UIKIT Framework.\r\n"
+  }
+]
