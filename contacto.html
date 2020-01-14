@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MtvNet</title>
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:300,500" rel="stylesheet">
+    <link rel="stylesheet" href="css/pgwslideshow.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121805536-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-121805536-1');
+    </script>
+    
+</head>
+<body ontouchstart="">
+    <header>
+        <div class="logo">
+            <h1><a href="index.html"><img src="img/logo.svg" alt="MtvNet" class="logo-head"></a></h1>
+        </div>
+    </header>
+    <nav class="nav-main">
+        <ul>
+            <li><a href="index.html"><img src="img/home.svg" alt="Inicio"></a></li>
+        </ul>
+    </nav>
+    <section class="trabajos">
+        <h3>¡Vamos contáctame!</h3>
+        <div class="contact-box">
+            <div class="contact-image">
+                <div class="retrato ok">
+                    <img src="img/contacto-main.jpg" alt="Foto Autor" width="250px" class="portrait">
+                </div>
+                <div class="retrato errors hideme">
+                    <img src="img/contacto-error.jpg" alt="Foto Autor" width="250px" class="portrait">
+                </div>
+            </div>
+            <div class="contact-form">
+                <form id="contact_form" action="https://formspree.io/matrujillov@gmail.com" method="POST">
+                    <div>
+                        <div class="form-grp">
+                            <input type="text" placeholder="Email" class="form-element" name="_replyto" id="temail"  data-validation="email" data-validation-error-msg="Debes ingresar un email válido">
+                        </div>
+                        <div class="form-grp">
+                            <textarea type="textarea" placeholder="Mensaje" class="form-element" name="message" rows="8" id="tmensaje" data-validation="length" data-validation-length="min10" data-validation-error-msg="Tu mensaje debe tener al menos 10 caracteres"></textarea>
+                        </div>
+                        <div class="form-grp submit">
+                            <button type="submit" class="btn btn-submit" name="btnEnviar" id="btn_submit">Enviar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="mensaje hideme">
+        ok se mando la wea
+    </div>
+
+
+    <!--scripts-->
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/jqueryform-validator.min.js"></script>
+    <script src="js/contacto.js"></script>
+      
+</body>
+</html>
