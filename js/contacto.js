@@ -27,7 +27,7 @@ $(document).ready(function() {
       });
 
     /*submit event*/
-    $('#contact_form').submit(function(e){
+    /*$('#contact_form').submit(function(e){
         e.preventDefautl();
         $.ajax({
             url: "https://formspree.io/matrujillov@gmail.com",
@@ -40,6 +40,6 @@ $(document).ready(function() {
         });
         return false;
     
-    })    
+    })*/
     
 });
